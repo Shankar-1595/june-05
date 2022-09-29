@@ -1,0 +1,49 @@
+- : type of the file 
+
+- = Regular file
+d = directory
+c = characater file
+b = blocked file
+| = pipeline 
+----------------------------------  
+permissions
+
+rw-    r--   r-- 
+
+r = read = 4
+w = write = 2
+x = execute = 1
+- = nothing = 0
+
+rxw   r-w  r-x
+
+765
+------------------
+ACL - Aaccess Control List
+
+regualr file - 1
+directory - 2
+
+--------------------
+file owners 
+
+ root root 
+
+1st root - user 
+2nd root - group
+
+---------------------
+DATA
+
+17 - No of characters in a file (including spaces)
+
+------------------------
+FILE CREATION DETAILS 
+May  5 02:28 
+
+--------------------
+FILE NAME 
+
+aws
+
+--------------------------
